@@ -4,7 +4,9 @@
 
 2.- Install the pips (they are in the  pip_requirements.txt)
 
-3.- Using cd go to the directory where the folder Whatsapp-bot is located
+3.- Run the code in your IDE
+
+3.1.- If your IDE can't run the code go to your cmd again and, using the cd command, go to the directory where the folder Whatsapp-bot is located
 
 4.- Then activate the environment using .\venv\Scripts\activate
 
