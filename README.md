@@ -1,4 +1,4 @@
-#To execute the app 
+# To execute the app 
 
 1.- you need to open your computer's cmd
 2.- install the pips (they are in the  pip_requirements.txt)
